@@ -1,0 +1,83 @@
+[
+    {
+        "city": "待确认人员",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "拉萨",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "阿里地区",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "日喀则",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "山南",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "林芝",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "那曲",
+        "danger": [],
+        "modeldanger": []
+    },
+    {
+        "city": "昌都",
+        "danger": [
+            {
+                "area": "丁青县尺牍镇乌巴村",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区互惠互利超市对面公厕旁修手表店",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区佳香味烧饼店",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区交警安居苑三单元",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区四川桥居委会",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区嘎东街258号电厂下方靠河自建房",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区强巴林寺及周边门面",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区卡诺国际一期一栋",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区波波超市",
+                "level": "高风险"
+            },
+            {
+                "area": "卡若区夏通街汽车城小区",
+                "level": "高风险"
+            }
+        ],
+        "modeldanger": []
+    }
+]
